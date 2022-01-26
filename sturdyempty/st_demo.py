@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.echo("Hello Kirill!")
+st.title("Hello Kirill!")
